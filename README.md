@@ -47,16 +47,16 @@ Sou um desenvolvedor Front-end autodidata residente no interior de São Paulo. I
 ### 📫 Vamos nos conectar?
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/0pripyat/" target="_blank">
+  <a href="[https://www.linkedin.com/in/0pripyat/](https://www.linkedin.com/in/0pyat/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/0pyat/" target="_blank">
+  <a href="https://www.instagram.com/lostinchernobil/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://twitter.com/0pyat" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5511991033223" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5511962075048" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
