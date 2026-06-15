@@ -3,7 +3,7 @@
 ### 💻 Sobre Mim
 Sou um desenvolvedor Front-end autodidata residente no interior de São Paulo. Iniciei minha jornada na programação em 2019 durante a pandemia, explorando as principais tecnologias da web. Sou apaixonado por web design moderno, minimalismo, semântica e responsividade.
 
-- 🎓 **Foco atual:** Aperfeiçoando desenvolvimento Web (React, Angular, Node.js)
+- 🎓 **Foco atual:** Aperfeiçoando desenvolvimento Web 
 - 🌌 **Interesses:** Tecnologia, Astronomia e Natureza
 - 🏕️ **Hobbies:** Acampar, trekking, estudar e desenvolver estratégias de e-commerce
 - 💬 **Frase Guia:** *"A repetição com correção, até a exaustão, leva à perfeição."*
