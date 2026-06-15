@@ -1,8 +1,4 @@
-# Olá, eu sou o Carlos Rogério! 👋
-
-<p align="center">
-  <img src="./github_profile_banner.png" width="100%" alt="Carlos Rogério - Front-end Developer Banner">
-</p>
+# Olá, eu sou o Carlos! 👋
 
 ### 💻 Sobre Mim
 Sou um desenvolvedor Front-end autodidata residente no interior de São Paulo. Iniciei minha jornada na programação em 2019 durante a pandemia, explorando as principais tecnologias da web. Sou apaixonado por web design moderno, minimalismo, semântica e responsividade.
