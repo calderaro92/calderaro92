@@ -5,7 +5,7 @@ Sou um desenvolvedor Front-end autodidata residente no interior de São Paulo. I
 
 - 🎓 **Foco atual:** Aperfeiçoando desenvolvimento Web 
 - 🌌 **Interesses:** Tecnologia, Astronomia e Natureza
-- 🏕️ **Hobbies:** Acampar, trekking, estudar e desenvolver estratégias de e-commerce
+- 🏕️ **Hobbies:** Acampar, trekking, estudar e cuidar de idosos
 - 💬 **Frase Guia:** *"A repetição com correção, até a exaustão, leva à perfeição."*
 
 ---
